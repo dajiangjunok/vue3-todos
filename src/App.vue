@@ -18,6 +18,7 @@ import Home from './views/Home.vue'
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  margin-top: 100px;
+  margin-top: 30px;
+  text-align: center;
 }
 </style>
